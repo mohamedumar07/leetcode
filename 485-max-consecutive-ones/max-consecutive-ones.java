@@ -9,10 +9,11 @@ class Solution {
             {
                 counter++;
             }else{
+                maximum = Math.max(counter, maximum);
                 counter = 0;
             }
-            maximum = Math.max(counter, maximum);
+            
         }
-        return maximum;
+        return Math.max(counter, maximum);
     }
 }
