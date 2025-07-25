@@ -8,7 +8,7 @@ class Solution {
             if(price < buy){
                 buy = price;
             }
-            if((price - buy) > sell){
+            else if((price - buy) > sell){
                 sell = price - buy;
             }
         }
