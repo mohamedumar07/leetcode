@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohamedumar07/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohamedumar07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/mohamedumar07/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohamedumar07/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohamedumar07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
