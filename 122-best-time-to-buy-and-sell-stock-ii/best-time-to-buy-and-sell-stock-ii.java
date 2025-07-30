@@ -15,7 +15,9 @@ class Solution {
                 profit = Math.max(profit, temp - buy);
             }
         }
-        sum += profit;
+        if(profit != 0){
+            sum += profit;
+        }
         return sum;
     }
 }
