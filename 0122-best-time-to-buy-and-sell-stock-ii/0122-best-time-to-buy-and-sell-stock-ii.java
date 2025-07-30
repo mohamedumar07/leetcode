@@ -11,8 +11,8 @@ class Solution {
                 sum += profit;
                 profit = 0;
                 buy = temp;
-            }else{
-                profit = Math.max(profit, temp - buy);
+            }else if((temp - buy) > profit){
+                profit = temp - buy;
             }
         }
         if(profit != 0){
