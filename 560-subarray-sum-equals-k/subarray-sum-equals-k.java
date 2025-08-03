@@ -2,28 +2,24 @@ import java.util.*;
 
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        Map<Integer, Integer> prefixSumFreq = new HashMap<>();
-
+        Map<Integer, Integer> freq = new HashMap<>();
         int prefixSum = 0;
-
-        prefixSumFreq.put(prefixSum, 1);
         int count = 0;
+        freq.put(0, 1); //handles the first instance of K.
 
-        for(int num: nums)
-        {
-            prefixSum += num;
+        for(int i = 0; i < nums.length; i++){
+            prefixSum += nums[i];
 
-            if(prefixSumFreq.containsKey(prefixSum - k)){
-                count += prefixSumFreq.get(prefixSum - k);
+            if(freq.containsKey(prefixSum - k)){
+                count += freq.get(prefixSum - k);
             }
 
-            if(prefixSumFreq.containsKey(prefixSum)){
-                prefixSumFreq.put(prefixSum, prefixSumFreq.get(prefixSum) + 1);
+            if(freq.containsKey(prefixSum)){
+                freq.put(prefixSum, freq.get(prefixSum) + 1);
             }else{
-                prefixSumFreq.put(prefixSum, 1);
+                freq.put(prefixSum, 1);
             }
         }
-
         return count;
     }
 }
