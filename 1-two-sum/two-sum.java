@@ -1,22 +1,18 @@
+import java.util.*;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int result[] = new int[2];
+        Map<Integer, Integer> prefixSum = new HashMap<>();
+        int solution[] = {-1, -1};
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for(int i = 0; i < nums.length; i++)
-        {
-            int diff = target - nums[i];
-
-            if(map.containsKey(diff))
-            {
-                result[0] = map.get(diff);
-                result[1] = i;
-                break;
-            }else{
-                map.put(nums[i], i);
+        for(int i = 0; i < nums.length; i++){
+            if(prefixSum.containsKey(target - nums[i])){
+                solution[0] = prefixSum.get(target - nums[i]);
+                solution[1] = i; 
             }
+            prefixSum.put(nums[i], i);
         }
-        return result;
+
+        return solution;
     }
 }
