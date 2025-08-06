@@ -8,10 +8,8 @@ class Solution {
         {
             rightSum[j] = rightSum[j + 1] + nums[j + 1];
         }
-        System.out.println(Arrays.toString(rightSum));
         for(int i = 1; i <= n; i++)
         {
-            System.out.println(leftSum);
             if(leftSum == rightSum[i - 1]){
                 return i - 1;
             }
