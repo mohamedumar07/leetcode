@@ -8,12 +8,12 @@ class Solution {
         {
             rightSum[j] = rightSum[j + 1] + nums[j + 1];
         }
-        for(int i = 1; i <= n; i++)
+        for(int i = 0; i < n; i++)
         {
-            if(leftSum == rightSum[i - 1]){
-                return i - 1;
+            if(leftSum == rightSum[i]){
+                return i;
             }
-            leftSum = leftSum + nums[i - 1];
+            leftSum = leftSum + nums[i];
         }
         return -1;
     }
