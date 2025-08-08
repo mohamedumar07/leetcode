@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohamedumar07/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mohamedumar07/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/mohamedumar07/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2777-find-the-distinct-difference-array](https://github.com/mohamedumar07/leetcode/tree/master/2777-find-the-distinct-difference-array) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohamedumar07/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamedumar07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2777-find-the-distinct-difference-array](https://github.com/mohamedumar07/leetcode/tree/master/2777-find-the-distinct-difference-array) |
 ## Binary Search
 |  |
 | ------- |
