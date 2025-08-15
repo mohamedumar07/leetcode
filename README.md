@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohamedumar07/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohamedumar07/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mohamedumar07/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/mohamedumar07/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mohamedumar07/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohamedumar07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohamedumar07/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohamedumar07/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/mohamedumar07/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamedumar07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2777-find-the-distinct-difference-array](https://github.com/mohamedumar07/leetcode/tree/master/2777-find-the-distinct-difference-array) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/mohamedumar07/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
