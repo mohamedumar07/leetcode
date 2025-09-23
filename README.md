@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/mohamedumar07/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/mohamedumar07/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/mohamedumar07/leetcode/tree/master/2777-find-the-distinct-difference-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/mohamedumar07/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## String
 |  |
