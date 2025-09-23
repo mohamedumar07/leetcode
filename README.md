@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/mohamedumar07/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohamedumar07/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohamedumar07/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3312-number-of-changing-keys](https://github.com/mohamedumar07/leetcode/tree/master/3312-number-of-changing-keys) |
 ## Two Pointers
 |  |
 | ------- |
