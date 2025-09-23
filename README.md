@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohamedumar07/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/mohamedumar07/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/mohamedumar07/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mohamedumar07/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/mohamedumar07/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohamedumar07/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/mohamedumar07/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/mohamedumar07/leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
