@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mohamedumar07/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamedumar07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mohamedumar07/leetcode/tree/master/0724-find-pivot-index) |
+| [1019-squares-of-a-sorted-array](https://github.com/mohamedumar07/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohamedumar07/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/mohamedumar07/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohamedumar07/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mohamedumar07/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mohamedumar07/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohamedumar07/leetcode/tree/master/0283-move-zeroes) |
+| [1019-squares-of-a-sorted-array](https://github.com/mohamedumar07/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohamedumar07/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/mohamedumar07/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/mohamedumar07/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/mohamedumar07/leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
