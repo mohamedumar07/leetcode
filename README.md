@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mohamedumar07/leetcode/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/mohamedumar07/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohamedumar07/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/mohamedumar07/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/mohamedumar07/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohamedumar07/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mohamedumar07/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohamedumar07/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/mohamedumar07/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/mohamedumar07/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mohamedumar07/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/mohamedumar07/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohamedumar07/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
