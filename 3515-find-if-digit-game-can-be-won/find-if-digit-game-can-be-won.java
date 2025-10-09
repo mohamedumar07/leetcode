@@ -4,17 +4,13 @@ class Solution {
         int singleSum = 0;
 
         for(int num : nums){
-            if((num / 10) == 0){
+            if(num < 10){
                 singleSum += num;
             }else{
                 doubleSum += num;
             }
         }
 
-        if(Math.abs(singleSum - doubleSum) > 0){
-            return true;
-        }else{
-            return false;
-        }
+       return singleSum != doubleSum;
     }
 }
