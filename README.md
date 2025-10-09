@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/mohamedumar07/leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/mohamedumar07/leetcode/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/mohamedumar07/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/mohamedumar07/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/mohamedumar07/leetcode/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/mohamedumar07/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
