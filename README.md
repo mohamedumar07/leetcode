@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohamedumar07/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/mohamedumar07/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/mohamedumar07/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/mohamedumar07/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohamedumar07/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mohamedumar07/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohamedumar07/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/mohamedumar07/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohamedumar07/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohamedumar07/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/mohamedumar07/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/mohamedumar07/leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/mohamedumar07/leetcode/tree/master/3312-number-of-changing-keys) |
 ## Two Pointers
