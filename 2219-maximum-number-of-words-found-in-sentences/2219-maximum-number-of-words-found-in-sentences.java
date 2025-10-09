@@ -1,7 +1,13 @@
 class Solution {
 
     public int wordsCount(String text){
-        return text.split(" ").length;
+        int count = 1;
+        for(char c: text.toCharArray()){
+            if(c == ' '){
+                count++;
+            }
+        }
+        return count;
     }
 
     public int mostWordsFound(String[] sentences) {
