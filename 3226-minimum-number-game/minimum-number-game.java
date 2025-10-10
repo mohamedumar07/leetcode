@@ -23,16 +23,10 @@ class Solution {
                 idx2 = i;
                 }
             }
-            System.out.println(idx);
-            System.out.println(idx2);
             nums[idx] = -1;
             nums[idx2] = -1; 
             arr[count++] = min2;
             arr[count++] = min1;
-            System.out.println(Arrays.toString(arr));
-            System.out.println(Arrays.toString(nums));
-            System.out.println(count);
-            
         }
         return arr;
     }
