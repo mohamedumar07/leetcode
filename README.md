@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/mohamedumar07/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohamedumar07/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohamedumar07/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/mohamedumar07/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mohamedumar07/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/mohamedumar07/leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/mohamedumar07/leetcode/tree/master/3312-number-of-changing-keys) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mohamedumar07/leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/mohamedumar07/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/mohamedumar07/leetcode/tree/master/0682-baseball-game) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/mohamedumar07/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohamedumar07/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/mohamedumar07/leetcode/tree/master/3226-minimum-number-game) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
