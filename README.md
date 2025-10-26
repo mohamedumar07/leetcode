@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohamedumar07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/mohamedumar07/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mohamedumar07/leetcode/tree/master/0724-find-pivot-index) |
+| [0822-unique-morse-code-words](https://github.com/mohamedumar07/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1019-squares-of-a-sorted-array](https://github.com/mohamedumar07/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohamedumar07/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/mohamedumar07/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohamedumar07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/mohamedumar07/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/mohamedumar07/leetcode/tree/master/0742-to-lower-case) |
+| [0822-unique-morse-code-words](https://github.com/mohamedumar07/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohamedumar07/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohamedumar07/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mohamedumar07/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohamedumar07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamedumar07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0822-unique-morse-code-words](https://github.com/mohamedumar07/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohamedumar07/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohamedumar07/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2777-find-the-distinct-difference-array](https://github.com/mohamedumar07/leetcode/tree/master/2777-find-the-distinct-difference-array) |
