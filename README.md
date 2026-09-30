@@ -175,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/mohamedumar07/leetcode/tree/master/3226-minimum-number-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mohamedumar07/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
