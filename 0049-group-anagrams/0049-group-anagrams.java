@@ -19,14 +19,12 @@ class Solution {
             }
 
             String key = sb.toString();
-            System.out.println(key);
 
             if(!groupedAnagrams.containsKey(key)){
                 groupedAnagrams.put(key, new ArrayList<>());
             }
             groupedAnagrams.get(key).add(str);
         }
-        System.out.println(groupedAnagrams);
         return new ArrayList<>(groupedAnagrams.values());
     }
 }
