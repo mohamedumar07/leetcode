@@ -15,7 +15,7 @@ class Solution {
             for(int c: count){
                 // | is to split the more than one digit collision to the
                 // neighboring number due to sum.
-                sb.append(c).append("|");
+                sb.append(c).append("#");
             }
 
             String key = sb.toString();
