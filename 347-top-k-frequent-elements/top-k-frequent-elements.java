@@ -2,28 +2,31 @@ class Solution {
     public int[] topKFrequent(int[] nums, int k) {
        Map<Integer, Integer> freq = new HashMap<>();
         int[] res = new int[k];
+        List<Integer>[] bucket = new List[nums.length+1];
         int temp = 0;
         for(int num: nums){
             freq.put(num, freq.getOrDefault(num, 0) + 1);
         }
 
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> {
-                if(a[0] != b[0])
-                    return Integer.compare(a[0], b[0]);
-                return Integer.compare(a[1], b[1]);
+        for(Integer n: freq.keySet()){
+            int key = freq.get(n);
+
+            if(bucket[key] == null){
+                bucket[key] = new ArrayList<>();
             }
-        );
-
-        for(Integer map: freq.keySet()){
-            minHeap.offer(new int[]{freq.get(map), map});
-            if(minHeap.size() > k)
-                minHeap.poll();
+            bucket[key].add(n);
         }
 
-        while(temp < k){
-            res[temp++] = minHeap.poll()[1];
-        }
+        for(int i = bucket.length - 1; i >= 0 && temp < k; i--){
+            if(bucket[i] != null){
+                for(int n: bucket[i]){
+                    res[temp++] = n;
 
-        return res;
+                    if(temp == k)
+                        return res;
+                }
+            }
+        }
+        return null;
     }
 }
