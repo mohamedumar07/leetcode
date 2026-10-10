@@ -2,12 +2,13 @@ import java.util.Random;
 
 class Solution {
     public int findKthLargest(int[] nums, int K) {
+        int len =  nums.length, l = 0, r = len - 1;
     Random rand = new Random();
-    int len =  nums.length, l = 0, r = len - 1;
     while (l <= r) {
-        int mid = helper(nums, l, r);
-        if (mid == K - 1) return nums[mid];
-        if (mid < K - 1) {
+        int pivotIndex = l + rand.nextInt(r - l + 1);
+        int mid = partition(nums, l, r, pivotIndex);
+        if (mid == len - K) return nums[mid];
+        if (mid < len - K) {
             l = mid + 1;
         } else {
             r = mid - 1;
@@ -16,21 +17,24 @@ class Solution {
     return 0;
     }
 
-    private int helper(int[] A, int l, int r) {
-        Random rand = new Random();
-        int pivotIndex = l + rand.nextInt(r - l + 1); //choosing the random pivot element. it reduces the worst-case performance.
-        swap(A, pivotIndex, l);
-        int pivot = A[l];
-        while (l < r) {
-            while (l < r && A[r] <= pivot) 
-                r--;
-            A[l] = A[r];
-            while (l < r && A[l] >= pivot) 
-                l++;
-            A[r] = A[l];
+    private static int partition(int nums[], int l, int r, int pI){
+        int pivot = nums[pI];
+        swap(nums, r, pI); //move pivot far to the right
+        int nextStoredIndex = l;
+
+        //if we encounter any values less than pivot, 
+        //we swap it to the left side via storedIndex
+        for(int i = l; i < r; i++){
+            if(nums[i] < pivot){
+                swap(nums, nextStoredIndex, i);
+                nextStoredIndex++;
+            }
         }
-        A[l] = pivot;
-        return l;
+
+        //everything in the left side is smaller than the pivot
+        //thus, we will place pivot after the nextStoredIndex
+        swap(nums, r, nextStoredIndex);
+        return nextStoredIndex;
     }
 
     public static void swap(int[] nums, int a, int b){
