@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/mohamedumar07/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mohamedumar07/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/mohamedumar07/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/mohamedumar07/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/mohamedumar07/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mohamedumar07/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohamedumar07/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mohamedumar07/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamedumar07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mohamedumar07/leetcode/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/mohamedumar07/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/mohamedumar07/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/mohamedumar07/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
