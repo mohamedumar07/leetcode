@@ -5,7 +5,7 @@ class Solution {
 
         for(int i = 1; i <= k; i++){
             for(int j = 1; j < n; j++){
-                sum[j] = (sum[j] + sum[j - 1] ) % (int)(Math.pow(10,9) + 7);
+                sum[j] = (sum[j] + sum[j - 1] ) % 1000000007;
             }
         }
 
