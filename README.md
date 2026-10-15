@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/mohamedumar07/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/mohamedumar07/leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/mohamedumar07/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3194-find-words-containing-character](https://github.com/mohamedumar07/leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/mohamedumar07/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/mohamedumar07/leetcode/tree/master/3321-type-of-triangle) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/mohamedumar07/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/mohamedumar07/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/mohamedumar07/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3321-type-of-triangle](https://github.com/mohamedumar07/leetcode/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/mohamedumar07/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/mohamedumar07/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/mohamedumar07/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/mohamedumar07/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Divide and Conquer
 |  |
@@ -162,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mohamedumar07/leetcode/tree/master/0682-baseball-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mohamedumar07/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohamedumar07/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3226-minimum-number-game](https://github.com/mohamedumar07/leetcode/tree/master/3226-minimum-number-game) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Combinatorics
 |  |
 | ------- |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/mohamedumar07/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Matrix
 |  |
