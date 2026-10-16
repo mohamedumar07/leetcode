@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohamedumar07/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mohamedumar07/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/mohamedumar07/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamedumar07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/mohamedumar07/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/mohamedumar07/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mohamedumar07/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/mohamedumar07/leetcode/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/mohamedumar07/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/mohamedumar07/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/mohamedumar07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohamedumar07/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mohamedumar07/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/mohamedumar07/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohamedumar07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/mohamedumar07/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamedumar07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mohamedumar07/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0822-unique-morse-code-words](https://github.com/mohamedumar07/leetcode/tree/master/0822-unique-morse-code-words) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mohamedumar07/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/mohamedumar07/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamedumar07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mohamedumar07/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/mohamedumar07/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/mohamedumar07/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/mohamedumar07/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
