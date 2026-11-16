@@ -1,17 +1,19 @@
 class Solution {
     public int minStartValue(int[] nums) {
-        int prefixSum = 0;
-        int i;
-        for(i = 1; i <= 10000; i++){
-            prefixSum = i;
-            for(int num: nums){
-                prefixSum += num;
-                if(prefixSum <= 0)
-                    break;
-            }
-            if(prefixSum > 0)
-                return i;
+        int n = nums.length;
+        int prefixSum[] = new int[n];
+        prefixSum[0] = nums[0];
+        int min = nums[0];
+        for(int i = 1; i < n; i++){
+           prefixSum[i] = prefixSum[i - 1] + nums[i];
+           if(prefixSum[i] < min)
+            min = prefixSum[i];
         }
-        return i;
+
+        if(min < 0){
+           return Math.abs(min) + 1;
+        }else{
+            return 1;
+        }
     }
 }
